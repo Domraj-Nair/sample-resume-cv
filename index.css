@@ -1,0 +1,24 @@
+body {
+  background-color: #ff6138;
+  font-family: "Mogra", cursive;
+}
+
+h1 {
+  color: #fff195;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 15%;
+  border-color: #1e2a78;
+}
